@@ -1,7 +1,7 @@
-# VStanced Scrapper
+# VStanced Scraper
 
 ## Overview
-VStanced Scrapper is a console application written in C# designed to download all publicly available pages from vstanced.com. As the site is shutting down, this tool aims to preserve valuable content dating back to 2010, celebrating the memories and moments spent there.
+VStanced Scraper is a console application written in C# designed to download all publicly available pages from vstanced.com. As the site is shutting down, this tool aims to preserve valuable content dating back to 2010, celebrating the memories and moments spent there.
 
 ## Features
 - Downloads content from all pages, forums, downloads, and user profiles.
